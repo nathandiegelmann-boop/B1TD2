@@ -1,6 +1,6 @@
 # B1TD2
 ## teste 2 de personnalisation de git 
-### titre niveau 3 
+
 #### titre nv4
 + puce 1 d'une liste desordonné
 + puce 2 d'une liste desordonné
